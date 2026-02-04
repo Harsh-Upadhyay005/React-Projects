@@ -1,0 +1,14 @@
+.Product {
+    border: 2px,solid, #ffffff;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    width: 500px;
+    margin-left: 12px;
+    padding: 0,10px,0,10px;
+    height: 200px;
+}
+.List {
+    margin-left: 20px;
+}
+
+
